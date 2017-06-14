@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "e555e22cae2127b0aca711b8a97656db",
+    "pageAccessToken": "EAAMsLnN4nt0BAJJqOvcyQmRaqreLHtfTSIaJ2dvdsATfaJQq8xRHZA55O4kzqh6sQxZBwfgeb72PYHEI7Mz4vS1tnTXbBJ3ZA8LuYg1ZAPDuL5MBpPqmklrWJxKfZAdNmMMZBZCCyhZBknK9So76tuCoMfYcCptPsEW8BVO5Ul90XQZDZD",
+    "validationToken": "anh_lam_dep_trai_vo_doi",
+    "serverURL": "https://chatbotv2.herokuapp.com"
 }
